@@ -19,6 +19,7 @@ Open terminal and try execute some kali linux commands.
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. The command sudo setoolkit in the prompt gives menu with set prompt:
+
 ![image](https://github.com/chandrumathiyazhagan/creating-a-backdoor-with-SET/assets/119393023/b1be6e3e-8721-4e81-8815-6b9f52eb568c)
 
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
